@@ -32,5 +32,4 @@ BtechNode is a comprehensive educational platform designed to organize and deliv
 
 
 
-## Conclusion
-BtechNode represents a modern approach to educational content management, combining robust backend services with an intuitive frontend interface. The platform's architecture ensures scalability, while its feature set provides comprehensive tools for both administrators and students.
+
