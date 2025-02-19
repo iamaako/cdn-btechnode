@@ -68,8 +68,8 @@ export default function AdminLogin() {
 
       if (error || !admin) {
         setLoading(false);
-        setError('Only TeamGTC Officials Allowed');
-        toast.error('Only TeamGTC Officials Allowed', {
+        setError('Only Script Squade Officials Allowed');
+        toast.error('Only Script Squade Officials Allowed', {
           style: {
             background: '#FF3B30',
             color: '#fff',
@@ -92,7 +92,7 @@ export default function AdminLogin() {
     } catch (err: any) {
       console.error('Login error:', err);
       setError(err.message || 'Failed to login');
-      toast.error('Only TeamGTC Officials Allowed', {
+      toast.error('Only Script Squade Officials Allowed', {
         style: {
           background: '#FF3B30',
           color: '#fff',

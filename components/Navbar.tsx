@@ -130,7 +130,7 @@ export default function Navbar() {
               >
                 <Link href="/" className="flex flex-col items-center">
                   <span className="text-2xl font-bold shiny-text">BtechNode</span>
-                  <span className="text-xs mono-text mt-0.5 font-bold">By TeamGTC</span>
+                  <span className="text-xs mono-text mt-0.5 font-bold">By Script Squade</span>
                 </Link>
               </motion.div>
             </div>
@@ -267,7 +267,7 @@ export default function Navbar() {
                   </div>
                   <div>
                     <h4 className="text-white font-medium">BtechNode</h4>
-                    <p className="text-white/60 text-sm">By TeamGTC</p>
+                    <p className="text-white/60 text-sm">By Script Squade</p>
                   </div>
                 </div>
               </div>
